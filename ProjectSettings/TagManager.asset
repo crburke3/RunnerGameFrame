@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spikes
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - GUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 227103003
+    locked: 1
+  - name: Midground
+    uniqueID: 868756389
+    locked: 1
+  - name: Main
+    uniqueID: 4097926345
+    locked: 0
+  - name: Foreground
+    uniqueID: 2115947609
+    locked: 0
+  - name: GUI
+    uniqueID: 3801061359
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
