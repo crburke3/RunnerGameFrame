@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PixelRunnerTemplate/Scenes/PixelRunner.unity
+    guid: 7725f5cd98ce26f4882d11996951dc88
   m_configObjects: {}
